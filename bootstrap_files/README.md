@@ -1,10 +1,3 @@
 # GitHub
 
 Write some explenation.
-
-
-
-
-
-
-
