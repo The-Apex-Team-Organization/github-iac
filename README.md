@@ -1,6 +1,6 @@
-# Birdwatching Automation
+# Creating GitHub repository
 
-This repository contains Terraform configuration for automating GitHub repository setup for the Birdwatching project. It provisions repositories, applies branch protection rules, and adds basic templates, workflows, and linters.
+This repository contains Terraform configuration for automating GitHub repository setup. It provisions repositories, applies branch protection rules, and adds basic templates, workflows, and linters.
 
 ## Features
 
